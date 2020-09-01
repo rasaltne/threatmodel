@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "My Test Web Application TM",
+    "owner": "Rick Saltness",
+    "description": "Sample model used in demonstration of OWASP threat dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "ECS-Cybertech"
+  }
+}
